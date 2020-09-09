@@ -2,4 +2,4 @@ apiVersion: v1
 kind: InstallConfig
 metadata:
   name: cluster
-baseDomain: edge.css-qe.com
+baseDomain: aws.css-qe.com
